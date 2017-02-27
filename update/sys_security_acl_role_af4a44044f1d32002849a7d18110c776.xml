@@ -4,7 +4,7 @@
         <sys_class_name>sys_security_acl_role</sys_class_name>
         <sys_created_by>keystone.gs</sys_created_by>
         <sys_created_on>2017-02-27 10:06:12</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>af4a44044f1d32002849a7d18110c776</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>x_58759_test_5_table.x_58759_test_5.user</sys_name>
